@@ -6,16 +6,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">    
  This project is created only for those who are interested in building a Virtual Assistant. Generally, it took lots of time to write code from scratch to build a Virtual Assistant. So, I have built a Library called "JarvisAI", which gives you easy functionality to build your own Virtual Assistant.    
 # Content-    
-    
-1. What is JarvisAI?    
-2. Prerequisite    
-3. Architecture  
-4. Getting Started- How to use it?    
-5. What it can do (Features it supports)    
-6. Future / Request Features    
-7. Contribute    
-8. Contact me    
-9. Donate    
-10. Thank me on-    
-  
+
 
